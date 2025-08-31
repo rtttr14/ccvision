@@ -1,3 +1,5 @@
+concept. self-similar symmetrical pattern search. imagine skin and hair. take random pixel, suppose it's on skin, expand it orthogonally with function that expands on similar colored pixels(or any other symmetry). now go on expanding until algorithm sees different pattern, color in our case, black if it's hair. saf. improve it with maching learning and symmetry further, like structures expands and if it sees eye, then it should see self-similar eye on other side of face to envelope in same way.
+
 Here’s your idea rewritten in “professional imbecile” style (jargon-heavy, overblown, corporate-academic tone, but saying the same thing):
 
 Conceptual Framework: Recursive Self-Similarity Pattern Expansion Algorithm (R-SSPEA™)
